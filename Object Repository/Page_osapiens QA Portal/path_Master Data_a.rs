@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Master Data_a</name>
+   <tag></tag>
+   <elementGuidId>5140a2e6-ad26-413e-8d77-8c5e48d72199</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#configurationTab > div.css-1e3tf61 > svg > g.b > path.a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>35bd4870-8d70-4cb0-be8b-fe0fbbe03418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cd5843dd-fcc2-46a9-befa-77ab34251c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M14.4,18.6a4.2,4.2,0,1,1,4.2-4.2,4.2,4.2,0,0,1-4.2,4.2m8.916-3.036A9.324,9.324,0,0,0,23.4,14.4a10.261,10.261,0,0,0-.084-1.2l2.532-1.956a.605.605,0,0,0,.144-.768l-2.4-4.152a.59.59,0,0,0-.732-.264l-2.988,1.2a8.7,8.7,0,0,0-2.028-1.176L17.4,2.9a.607.607,0,0,0-.6-.5H12a.607.607,0,0,0-.6.5l-.444,3.18A8.7,8.7,0,0,0,8.928,7.26L5.94,6.06a.59.59,0,0,0-.732.264l-2.4,4.152a.592.592,0,0,0,.144.768L5.484,13.2A10.261,10.261,0,0,0,5.4,14.4a9.323,9.323,0,0,0,.084,1.164L2.952,17.556a.592.592,0,0,0-.144.768l2.4,4.152a.6.6,0,0,0,.732.264l2.988-1.212a8.334,8.334,0,0,0,2.028,1.188L11.4,25.9a.607.607,0,0,0,.6.5h4.8a.607.607,0,0,0,.6-.5l.444-3.18a8.738,8.738,0,0,0,2.028-1.188L22.86,22.74a.6.6,0,0,0,.732-.264l2.4-4.152a.605.605,0,0,0-.144-.768Z</value>
+      <webElementGuid>2818a316-b0e9-433a-a325-1a4b27d274d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(-2.397 -2.4)</value>
+      <webElementGuid>6024c79b-ecdd-484d-8fdb-0cc7d58ff4ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;configurationTab&quot;)/div[@class=&quot;css-1e3tf61&quot;]/svg[1]/g[@class=&quot;b&quot;]/path[@class=&quot;a&quot;]</value>
+      <webElementGuid>96d4dcc3-4adb-428e-bab3-e57f6903b7a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_osapiens QA Portal/iframe_FH_webbundlediv904_1</value>
+      <webElementGuid>3e41a85a-f87e-4c3a-8a1e-e8490be3fd65</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

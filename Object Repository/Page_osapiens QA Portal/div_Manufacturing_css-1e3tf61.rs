@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manufacturing_css-1e3tf61</name>
+   <tag></tag>
+   <elementGuidId>1df76df6-85bd-4b25-a673-e02fb959ff58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='masterDataTab']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#masterDataTab > div.css-1e3tf61</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01321675-a0e9-4d93-9277-164c037eab7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1e3tf61</value>
+      <webElementGuid>de8ff13f-9143-47e8-bbfe-e769fde56956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;masterDataTab&quot;)/div[@class=&quot;css-1e3tf61&quot;]</value>
+      <webElementGuid>f015c4ee-3ef4-40f5-b7a1-b3b56e55f0c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_osapiens QA Portal/iframe_FH_webbundlediv904</value>
+      <webElementGuid>adb8c916-4097-4b79-a68b-5f79b94c3b6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='masterDataTab']/div</value>
+      <webElementGuid>a9900efa-5115-4343-9ed7-65d9eba02d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manufacturing'])[1]/following::div[2]</value>
+      <webElementGuid>c12f0d61-35f5-406c-84b3-680e207ae684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code Treasurer'])[1]/following::div[5]</value>
+      <webElementGuid>6d25c24d-21cd-4590-b573-3bf047666dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Data'])[1]/preceding::div[1]</value>
+      <webElementGuid>42f735ed-87fb-4d2f-b573-5d9f61f9d011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/preceding::div[3]</value>
+      <webElementGuid>7198e726-d429-4c01-91fe-f898d21f3b67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div</value>
+      <webElementGuid>29f1f9e0-0350-4adb-954f-7a47b84b40c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

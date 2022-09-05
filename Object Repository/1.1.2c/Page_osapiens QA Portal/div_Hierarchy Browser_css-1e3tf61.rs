@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hierarchy Browser_css-1e3tf61</name>
+   <tag></tag>
+   <elementGuidId>0ebd76c7-e482-4ea9-b9da-c11741d5cf9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='codeTreasurerTab']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#codeTreasurerTab > div.css-1e3tf61</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>022512b6-d1b0-4b17-97b0-d24f96126599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1e3tf61</value>
+      <webElementGuid>91eeb7b3-bf1d-4791-ac68-1649c631fbf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;codeTreasurerTab&quot;)/div[@class=&quot;css-1e3tf61&quot;]</value>
+      <webElementGuid>d1d4af68-3c15-4a21-8c22-285a8e2d1de2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/1.1.2c/Page_osapiens QA Portal/iframe_FH_webbundlediv904</value>
+      <webElementGuid>1e4522be-b419-45ca-b026-f2585ea2bb64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='codeTreasurerTab']/div</value>
+      <webElementGuid>90e96161-f5f9-45ba-956c-fafee633214b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hierarchy Browser'])[2]/following::div[2]</value>
+      <webElementGuid>14c995d0-24b4-4466-b3bb-a36679784330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History Browser'])[1]/following::div[5]</value>
+      <webElementGuid>15a709e9-368d-4da8-b3ee-75dda1b63aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code Treasurer'])[1]/preceding::div[1]</value>
+      <webElementGuid>b947cf80-cf88-4f47-b58a-f2dc7c7aad07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manufacturing'])[1]/preceding::div[3]</value>
+      <webElementGuid>4670e799-008a-47ce-a5aa-6d23c5b49c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div</value>
+      <webElementGuid>8fd63ae0-8235-4ac6-b63f-ea41180e10ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

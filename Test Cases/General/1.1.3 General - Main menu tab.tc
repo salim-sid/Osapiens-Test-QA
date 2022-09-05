@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can logout</description>
+   <name>1.1.3 General - Main menu tab</name>
+   <tag>TPD web portal</tag>
+   <comment></comment>
+   <testCaseGuid>a6f45d13-1d33-4154-a2ff-3c1d87782e67</testCaseGuid>
+</TestCaseEntity>

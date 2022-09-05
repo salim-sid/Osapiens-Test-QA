@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Can navigate between all menu tabs</description>
+   <name>1.1.2 General - Main menu tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>355ef3d9-8aeb-4a98-b231-0d7910c893b7</testCaseGuid>
+</TestCaseEntity>

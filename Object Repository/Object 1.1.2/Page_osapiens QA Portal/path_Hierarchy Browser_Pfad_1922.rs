@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Hierarchy Browser_Pfad_1922</name>
+   <tag></tag>
+   <elementGuidId>cf79fdc6-a81f-47e8-bca5-9e7e1f59d480</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'Pfad_1922']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Pfad_1922</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>31189132-9b63-431c-80b7-cca7c29c21bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Pfad_1922</value>
+      <webElementGuid>37dee9bc-b8af-4714-b711-da51e2f87e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Pfad 1922</value>
+      <webElementGuid>f2e65f4d-fccb-4238-8165-059f431913e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M31518.566,11230.474h-22.506v-1.5h24v1.5Zm-1.5-1.5v-1.5h1.5v1.5Zm-3,0v-1.5h1.494v1.5Zm-4.5,0v-1.5h1.5v1.5Zm-4.5,0h-4.5v-1.5h6v1.5Zm-9,0v-1.5h1.5v1.5Zm22.506-1.5v-1.5h1.494v1.5Zm-3.008,0v-1.5h1.5v1.5Zm-3,0h-1.494v-1.5h3v1.5Zm-6,0h-1.5v-1.5h3v1.5Zm-9,0h-1.5v-1.5h3v1.5Zm16.5-1.5v-1.5h1.494v1.5Zm-3,0h-3.006v-1.5h4.5v1.5Zm-10.5,0v-1.5h1.5v1.5Zm-3,0h-1.5v-1.5h3v1.5Zm21-1.5v-1.5h1.494v1.5Zm-4.5,0v-1.5h1.494v1.5Zm-4.5,0v-1.5h1.5v1.5Zm-7.5,0v-1.5h1.494v1.5Zm-6.006,0v-1.5h1.5v1.5Zm21-1.5h-3v-1.5h4.5v1.5Zm-6,0v-1.5h1.494v1.5Zm-4.5,0h-3v-1.5h4.5v1.5Zm-7.506,0h-3v-1.5h4.5v1.5Zm19.508-1.5v-1.5h1.494v1.5Zm-13.5,0h-1.5v-1.5h3v1.5Zm-4.5,0h-1.5v-1.5h3.008v1.5Zm-4.5,0v-1.5h1.5v1.5Zm21-1.5v-1.5h1.5v1.5Zm-3,0h-1.5v-1.5h3v1.5Zm-4.5,0v-1.5h1.5v1.5Zm-7.5,0h-6.006v-1.5h7.5v1.5Zm16.5-1.5h-3.008v-1.5h4.5v1.5Zm-6.006,0v-1.5h1.5v1.5Zm-3,0h-3v-1.5h4.5v1.5Zm-7.5,0v-1.5h1.494v1.5Zm-3.008,0h-3v-1.5h4.5v1.5Zm16.5-1.5h-3v-1.5h4.5v1.5Zm-7.5,0h-3v-1.5h4.5v1.5Zm-9,0v-1.5h1.5v1.5Zm-3,0v-1.5h1.5v1.5Zm22.506-1.5h-3.008v-1.5h4.5v1.5Zm-10.506,0h-3v-1.5h4.5v1.5Zm-12,0v-1.5h1.5v1.5Zm19.5-1.5h-8.994v-1.5h10.5v1.5Zm-12,0v-1.5h1.5v1.5Zm-3,0h-1.5v-1.5h3.008v1.5Zm-4.5,0v-1.5h1.5v1.5Zm22.506-1.5v-1.5h1.494v1.5Zm-3.008,0h-1.494v-1.5h3v1.5Zm-6,0h-6v-1.5h7.506v1.5Zm-13.5,0v-1.5h1.5v1.5Zm21-1.5h-6v-1.5h7.5v1.5Zm-9,0v-1.5h1.5v1.5Zm-7.5,0v-1.5h1.5v1.5Zm-3,0h-1.5v-1.5h3v1.5Zm21-1.5v-1.5h1.494v1.5Zm-3.008,0h-1.494v-1.5h3v1.5Zm-4.492,0h-1.5v-1.5h3v1.5Zm-4.5,0h-1.5v-1.5h3v1.5Zm-4.5,0v-1.5h1.494v1.5Zm-3.008,0v-1.5h1.5v1.5Zm-3,0v-1.5h1.5v1.5Zm21-1.5v-1.5h1.5v1.5Zm-3,0v-1.5h1.494v1.5Zm-3,0v-1.5h1.494v1.5Zm-3.006,0v-1.5h1.5v1.5Zm-3,0v-1.5h1.5v1.5Zm-3,0v-1.5h1.494v1.5Zm-3.008,0v-1.5h1.5v1.5Zm-3,0v-1.5h1.5v1.5Z</value>
+      <webElementGuid>f5c94a8e-85fc-4b3d-89fc-faad03ab34bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(-31472.063 -11190.692)</value>
+      <webElementGuid>a041966e-04b7-4e68-aaad-dd40c1244f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Pfad_1922&quot;)</value>
+      <webElementGuid>5427671d-08f7-4be4-a0be-5422c66e7fbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Object 1.1.2/Page_osapiens QA Portal/iframe_FH_webbundlediv904</value>
+      <webElementGuid>040d4b01-b50b-45e6-bd54-3d04b079c169</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Pfad_1922']</value>
+      <webElementGuid>b7b68ef7-bdad-4818-b5b4-5057ed4d843e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

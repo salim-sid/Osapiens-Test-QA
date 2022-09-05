@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Dashboard_a</name>
+   <tag></tag>
+   <elementGuidId>f41de0fe-f148-4bd2-8193-5a0358604f16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path.a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>3cda0d54-ed99-4f6d-8a88-7dffc8e16bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aa2b4a98-e2b7-47a2-a383-45ad1d1c0007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M25.333,20V6.667H6.667V20H12a4,4,0,0,0,8,0h5.333m0-16A2.675,2.675,0,0,1,28,6.667V25.333A2.675,2.675,0,0,1,25.333,28H6.667A2.666,2.666,0,0,1,4,25.333V6.667A2.666,2.666,0,0,1,6.667,4H25.333m-16,13.333V14.667H22.667v2.667H9.333m0-5.333V9.333H22.667V12Z</value>
+      <webElementGuid>e8a00be0-84d0-419f-94c0-9900b25527eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(-4 -4)</value>
+      <webElementGuid>25c8a1de-d525-42e8-9a92-351794a5702e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;messagesTab&quot;)/div[@class=&quot;css-1e3tf61&quot;]/svg[1]/g[@class=&quot;b&quot;]/path[@class=&quot;a&quot;]</value>
+      <webElementGuid>b55eeff0-d168-42b3-902a-ff75549e0531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Object 1.1.2/Page_osapiens QA Portal/iframe_FH_webbundlediv904</value>
+      <webElementGuid>bcf76574-949d-44da-9f7d-ded950306bc7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

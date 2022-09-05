@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Configuration_a</name>
+   <tag></tag>
+   <elementGuidId>8248f4b4-a463-4813-952d-c35bf06c6b32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#accountTab > div.css-1e3tf61 > svg > g.b > path.a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>4cfffcb8-8a7e-46db-a539-a23811d0446a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5da1441f-6546-4b51-875a-0bbe1c853653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M18,6a6,6,0,1,1-6,6,6,6,0,0,1,6-6m0,15c6.63,0,12,2.685,12,6v3H6V27C6,23.685,11.37,21,18,21Z</value>
+      <webElementGuid>f467a9ae-119d-4510-8cd0-7a5487e87f5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(-6 -6)</value>
+      <webElementGuid>196af1e6-2f11-4189-ab99-750d547192b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accountTab&quot;)/div[@class=&quot;css-1e3tf61&quot;]/svg[1]/g[@class=&quot;b&quot;]/path[@class=&quot;a&quot;]</value>
+      <webElementGuid>50931f9e-fb37-4606-98ae-329a0392f2d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_osapiens QA Portal/iframe_FH_webbundlediv904_1</value>
+      <webElementGuid>3c917907-bfe9-4bc2-9a36-a8abb34ecf1f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

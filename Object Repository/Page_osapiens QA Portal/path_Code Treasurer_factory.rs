@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Code Treasurer_factory</name>
+   <tag></tag>
+   <elementGuidId>7f3b0abd-5084-4fa5-a7f6-fdcd6fee5951</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'factory']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#factory</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>27020195-d414-4070-a891-df31408bf4b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>factory</value>
+      <webElementGuid>11b6f5b8-39d2-45c7-8632-1f89e207bbde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M4.8,21.6V24H9.6V21.6H4.8m0-4.8v2.4h12V16.8H4.8M12,21.6V24h4.8V21.6H12m7.2-4.8v2.4H24V16.8H19.2m0,4.8V24H24V21.6H19.2M2.4,26.4V9.6l6,4.8V9.6l6,4.8V9.6l6,4.8,1.2-12h3.6l1.2,12v12Z</value>
+      <webElementGuid>39f2940c-a090-47a1-94f8-6f0c29e6fc83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(21.6 13.38)</value>
+      <webElementGuid>bcacce6a-1d37-4ee4-8f54-a9237349c9d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;factory&quot;)</value>
+      <webElementGuid>cbc267ca-f57a-4147-a095-2cd80754c2d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_osapiens QA Portal/iframe_FH_webbundlediv904_1</value>
+      <webElementGuid>7dcd69f9-fa94-46ff-80c2-92bee50b8226</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'factory']</value>
+      <webElementGuid>cde9e5f4-1a34-45cd-a318-24612820acc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

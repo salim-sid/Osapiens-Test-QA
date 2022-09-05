@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_History Browser_a</name>
+   <tag></tag>
+   <elementGuidId>1f5c848d-fd1a-4ff0-bcf4-0f81e4733e58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#hierarchyBrowserTab > div.css-1e3tf61 > svg > g.b > path.a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>15ef3160-f54c-46d6-94a5-5a777302fdd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f01264e7-84c3-42bf-896c-48b33a664c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M4,4h8V9.333H4V4m16,9.333h8v5.333H20V13.333m0,9.333h8V28H20V22.667m-2.667-5.333h-8V24h8v2.667H6.667V12H9.333v2.667h8Z</value>
+      <webElementGuid>e150c01a-a04c-4f0d-b9be-0e93b59274b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(20 11.78)</value>
+      <webElementGuid>d4625d88-4c45-40fc-b1f2-bb6124ad2431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hierarchyBrowserTab&quot;)/div[@class=&quot;css-1e3tf61&quot;]/svg[1]/g[@class=&quot;b&quot;]/path[@class=&quot;a&quot;]</value>
+      <webElementGuid>ed0df17a-6f0a-435f-b3a5-db707fd3b4ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Object 1.1.2/Page_osapiens QA Portal/iframe_FH_webbundlediv904</value>
+      <webElementGuid>dfee438f-ac14-43ef-b504-fe50e71d2d9f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

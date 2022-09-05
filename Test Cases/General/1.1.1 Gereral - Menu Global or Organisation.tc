@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Preselect some orgas, check if data on different tabs relates to choosen orgas only.</description>
+   <name>1.1.1 Gereral - Menu Global or Organisation</name>
+   <tag>TPD web portal</tag>
+   <comment></comment>
+   <testCaseGuid>a5ee7763-368b-42a4-9d88-849b22f75a79</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check if the information is correct</description>
+   <name>1.2.2 Dashboard - User distrubution</name>
+   <tag>TPD web portal</tag>
+   <comment></comment>
+   <testCaseGuid>e7f7332d-63a6-4ce6-9639-fd416cb4dc0f</testCaseGuid>
+</TestCaseEntity>
